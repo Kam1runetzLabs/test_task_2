@@ -1,1 +1,1 @@
-Technopark.Mail.Ru homework template
+Тестовое задание №2
